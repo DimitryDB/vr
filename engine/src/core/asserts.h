@@ -3,7 +3,7 @@
 // Disable assertions by commenting out the below line.
 #define KASSERTIONS_ENABLED
 #ifdef KASSERTIONS_ENABLED
-// MS check
+// MS specific  check
 #if _MSC_VER
 #include <intrin.h>
 #define debugBreak() __debugbreak()

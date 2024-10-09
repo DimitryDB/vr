@@ -1,7 +1,4 @@
-*.dll
-*.ilk
-*.pdb
-*.exe
-*.ilk
-*.pdb
+bin/
+obj/
+
 

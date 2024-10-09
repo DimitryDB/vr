@@ -58,6 +58,8 @@
         "vulkan_platform.h": "c",
         "renderer_frontend.h": "c",
         "logger.h": "c",
-        "system_error": "c"
+        "system_error": "c",
+        "iosfwd": "c",
+        "xlocbuf": "c"
     }
 }
